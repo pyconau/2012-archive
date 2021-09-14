@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_jfk2.png" type="image/x-icon">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>Google Australia &amp; PyCon Australia gender diversity grants for women in Python</title>
+
+<link href='https://docs.google.com/static/spreadsheets/client/css/779923916-published_form_compiled.css' type='text/css' rel='stylesheet'>
+</head>
+<body class="ss-base-body" dir="ltr" itemscope itemtype="http://schema.org/CreativeWork/FormObject"><meta itemprop="name" content="Google Australia &amp; PyCon Australia gender diversity grants for women in Python">
+<meta itemprop="description" content="If you have any questions about this application form, please contact diversity@pycon-au.org.">
+
+
+<meta itemprop="embedUrl" content="https://docs.google.com/spreadsheet/embeddedform?formkey=dGpXUndmdGgyT3RZWm9LM2lXeGN5WGc6MA">
+<meta itemprop="faviconUrl" content="//ssl.gstatic.com/docs/spreadsheets/forms/favicon_jfk2.png">
+
+<div class="ss-form-container">
+<div class="ss-form-heading"><h1 class="ss-form-title">Google Australia &amp; PyCon Australia gender diversity grants for women in Python</h1>
+<p></p>
+<div class="ss-form-desc ss-no-ignore-whitespace">If you have any questions about this application form, please contact <a href="mailto:diversity@pycon-au.org">diversity@pycon-au.org</a>.</div>
+
+<hr class="ss-email-break" style="display:none;">
+<div class="ss-required-asterisk">* Required</div></div>
+<div class="ss-form"><form action="https://docs.google.com/spreadsheet/formResponse?formkey=dGpXUndmdGgyT3RZWm9LM2lXeGN5WGc6MA&amp;ifq" method="POST" id="ss-form">
+
+
+<br>
+<div class="errorbox-good">
+<div class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-title" for="entry_0">Name
+<span class="ss-required-asterisk">*</span></label>
+<label class="ss-q-help" for="entry_0">Your full name.</label>
+<input type="text" name="entry.0.single" value="" class="ss-q-short" id="entry_0"></div></div></div>
+<br> <div class="errorbox-good">
+<div class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-title" for="entry_1">Email
+<span class="ss-required-asterisk">*</span></label>
+<label class="ss-q-help" for="entry_1">A contact email address</label>
+<input type="text" name="entry.1.single" value="" class="ss-q-short" id="entry_1"></div></div></div>
+<br> <div class="errorbox-good">
+<div class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-title" for="entry_2">Phone Number:
+<span class="ss-required-asterisk">*</span></label>
+<label class="ss-q-help" for="entry_2">Best phone number to be contacted on.</label>
+<input type="text" name="entry.2.single" value="" class="ss-q-short" id="entry_2"></div></div></div>
+<br> <div class="errorbox-good">
+<div class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-title" for="entry_5">Referee Name
+<span class="ss-required-asterisk">*</span></label>
+<label class="ss-q-help" for="entry_5">Please provide the name of the person who will be sending us a written reference supporting your application.</label>
+<input type="text" name="entry.5.single" value="" class="ss-q-short" id="entry_5"></div></div></div>
+<br> <div class="errorbox-good">
+<div class="ss-item ss-item-required ss-checkbox"><div class="ss-form-entry"><label class="ss-q-title" for="entry_11">Diversity grant eligibility:
+<span class="ss-required-asterisk">*</span></label>
+<label class="ss-q-help" for="entry_11">By checking this box, you confirm that you are eligible for the diversity grant of subsidised registration to PyCon Australia 2012.</label>
+<ul class="ss-choices"><li class="ss-choice-item"><label class="ss-choice-label"><input type="checkbox" name="entry.11.group" value="I am a woman, aged 18 years or older, and I intend to attend both days of PyCon Australia 2012 if awarded this grant." class="ss-q-checkbox" id="group_11_1">
+I am a woman, aged 18 years or older, and I intend to attend both days of PyCon Australia 2012 if awarded this grant.</label></li>
+</ul></div></div></div>
+<br> <div class="errorbox-good">
+<div class="ss-item  ss-checkbox"><div class="ss-form-entry"><label class="ss-q-title" for="entry_10">Travel grant application and eligibility:
+</label>
+<label class="ss-q-help" for="entry_10">By checking this box, you confirm that you are eligible and wish to apply for the additional funding to facilitate your travel to and accommodation near the venue, up to a total of $500. You are eligible for the travel grant if you live more than 150km driving distance away from the conference venue. If you are unsure, please visit http://maps.google.com.au/maps/place?q=Wrest+Point,+Tasmania and use the &quot;Get Directions&quot; link in the upper left-hand corner to calculate the driving distance from your place of residence to the venue. </label>
+<ul class="ss-choices"><li class="ss-choice-item"><label class="ss-choice-label"><input type="checkbox" name="entry.10.group" value="I live more than 150km driving distance away from the conference venue, and wish to apply for the additional travel grant." class="ss-q-checkbox" id="group_10_1">
+I live more than 150km driving distance away from the conference venue, and wish to apply for the additional travel grant.</label></li>
+</ul></div></div></div>
+<br> <div class="errorbox-good">
+<div class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry"><label class="ss-q-title" for="entry_9">Please provide a summary of your involvement in the Python community (up to 500 words).
+<span class="ss-required-asterisk">*</span></label>
+<label class="ss-q-help" for="entry_9"> Examples of involvement include but are not limited to: contributions to the core Python language or libraries, development of applications in Python, writing documentation or other non-code contributions to Python or a Python application, participation in mailing lists or support for Python or a Python application, and giving presentations about Python or applications written in Python.</label>
+<textarea name="entry.9.single" rows="8" cols="75" class="ss-q-long" id="entry_9"></textarea></div></div></div>
+<br>
+<input type="hidden" name="pageNumber" value="0">
+<input type="hidden" name="backupCache" value="">
+
+
+<div class="ss-item ss-navigate"><div class="ss-form-entry">
+<input type="submit" name="submit" value="Submit"></div></div></form>
+<script type="text/javascript">
+      
+      (function() {
+var divs = document.getElementById('ss-form').
+getElementsByTagName('div');
+var numDivs = divs.length;
+for (var j = 0; j < numDivs; j++) {
+if (divs[j].className == 'errorbox-bad') {
+divs[j].lastChild.firstChild.lastChild.focus();
+return;
+}
+}
+for (var i = 0; i < numDivs; i++) {
+var div = divs[i];
+if (div.className == 'ss-form-entry' &&
+div.firstChild &&
+div.firstChild.className == 'ss-q-title') {
+div.lastChild.focus();
+return;
+}
+}
+})();
+      </script></div>
+<div class="ss-footer"><div class="ss-attribution"></div>
+<div class="ss-legal"><span class="ss-powered-by">Powered by <a href="http://docs.google.com">Google Docs</a></span>
+<span class="ss-terms"><small><a href="https://docs.google.com/spreadsheet/reportabuse?formkey=dGpXUndmdGgyT3RZWm9LM2lXeGN5WGc6MA&amp;source=https://docs.google.com/spreadsheet/viewform?formkey%3DdGpXUndmdGgyT3RZWm9LM2lXeGN5WGc6MA">Report Abuse</a>
+-
+<a href="http://www.google.com/accounts/TOS">Terms of Service</a>
+-
+<a href="http://www.google.com/google-d-s/terms.html">Additional Terms</a></small></span></div></div></div></body></html>

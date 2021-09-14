@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyCon Australia 2012 News</title>
+    <link>http://2012.pycon-au.org</link>
+    <description>PyCon Australia 2012 | 18-19 August | Hobart, Tasmania</description>
+    <language>en-us</language>
+    <item>
+      <title>Call for Volunteers</title>
+      <link>http://2012.pycon-au.org/media/news/36</link>
+      <description>&lt;p&gt;With just ten days until the start of PyCon Australia 2012, it’s time
+for us to call for volunteers -- we need your support to make PyCon AU a
+huge success. Over the course of the conference we will be needing
+session chairs, people to man the registration desk and general volunteers.&lt;/p&gt;
+
+&lt;p&gt;Session chairs and only need to commit to being in one room
+between two breaks (e.g. from the end of morning tea through the
+beginning of lunch).  You can take up these roles and still see all of
+the talks in one room for a session -- just nominate which sessions
+you'd be happy to chair in your reply and we'll try to allocate you to
+them&lt;/p&gt;
+
+&lt;p&gt;Session chairs are responsible for managing one room for a block of
+presentations between two breaks. Their job is to:
+&lt;ul&gt;
+&lt;li&gt;Introduce the speakers
+&lt;li&gt;Keep speakers on time
+&lt;li&gt;Ensure the session is kept in order
+&lt;li&gt;Passing the audience microphone to questioners (this helps make sure
+our video recordings are of a very high quality).
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Our registration desk will be open on Friday night and Saturday
+morning (&lt;a href=&quot;http://2012.pycon-au.org/programme/registration&quot;&gt;http://2012.pycon-au.org/programme/registration&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;We need four volunteers to make short work of the 200+ delegates that
+we are expecting. Outside of those rush hours we’d like to keep the
+desk manned to answer delegate queries and deal with late check-ins.&lt;/p&gt;
+
+&lt;p&gt;Finally, any volunteers who can be on call throughout the conference
+to assist the organisers would be greatly appreciated.&lt;/p&gt;
+
+&lt;p&gt;For those who can make it, we plan on running a briefing session on
+Friday afternoon, sometime around 3:30pm (time to be confirmed).&lt;/p&gt;
+
+
+&lt;p&gt;If you're interested in volunteering for any of the roles that we've
+described above, please reply to &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Aug 2012 05:52:07 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/36</guid>
+    </item>
+    <item>
+      <title>PyCon Australia dinner cruise and reception</title>
+      <link>http://2012.pycon-au.org/media/news/33</link>
+      <description>&lt;p&gt;We're very pleased to be able to announce the final, hitherto unannounced part of PyCon Australia 2012 -- our conference dinner this year is being held offsite at &lt;a href=&quot;http://www.peppermintbay.com.au&quot;&gt;Peppermint Bay&lt;/a&gt;, near Woodbridge, some 30km to the south of Hobart.&lt;/p&gt;
+
+&lt;div style=&quot;float: right; padding: 10px;&quot;&gt;
+&lt;img src=&quot;/images/page_images/peppermint_bay_0.jpg&quot; width=&quot;240&quot; alt=&quot;Peppermint Bay&quot;&gt; &lt;br /&gt;
+&lt;img src=&quot;/images/page_images/peppermint_bay_1.jpg&quot; width=&quot;240&quot; alt=&quot;Peppermint Bay&quot;&gt; &lt;br /&gt;
+&lt;img src=&quot;/images/page_images/peppermint_bay_2.jpg&quot; width=&quot;240&quot; alt=&quot;Peppermint Bay&quot;&gt; &lt;br /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Taking advantage of the waterfront location of our conference venue, we'll be starting the evening with a one-hour twilight cruise on the &lt;a href=&quot;http://www.derwentrivercruises.com.au/vessels.html&quot;&gt;Navigators catamaran, MV Marana&lt;/a&gt; (with your choice of indoor seating, or outdoor viewing decks); following the cruise, Peppermint Bay will present a three-course dinner, featuring fresh produce from the local region and around Tasmania.  Once that's done, we'll take you back to Wrest Point aboard the Marana.&lt;/p&gt;
+
+&lt;p&gt;We hope the dinner will be an excellent centrepiece of the conference this year, which will help make PyCon Australia 2012 a memorable event.&lt;/p&gt;
+
+&lt;p&gt;For more information about our dinner cruise and reception, or PyCon Australia in general, please &lt;a href=&quot;http://2012.pycon-au.org/programme/dinner&quot;&gt;see our website.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Images: Peppermint Bay.&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsors: Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;), and the Australian Computer Society (Tasmanian Branch) (&lt;a href=&quot;http://www.acs.org.au&quot;&gt;www.acs.org.au&lt;/a&gt;); our Event partners: Kogan, and Secret Lab; and our Silver sponsors: the Python Software Foundation, the Django Software Foundation, Anchor Systems, 99designs, Red Hat, BitBucket by Atlassian, ekit, Ionata Web Solutions, RimuHosting, and CSIRO.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 30 Jul 2012 00:00:38 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/33</guid>
+    </item>
+    <item>
+      <title>Four weeks until PyCon Australia 2012: Have you registered yet?</title>
+      <link>http://2012.pycon-au.org/media/news/31</link>
+      <description>&lt;p&gt;Things have been very busy here at PyCon Australia 2012 headquarters -- we've been busy putting the finishing touches on what we hope will be an amazing conference for Python programmers from around Australia and beyond.&lt;/p&gt;
+
+&lt;h4&gt;T-shirt registration deadline: Tuesday 31 July.&lt;/h4&gt;
+
+&lt;p&gt;Of course, a conference is nothing without people attending, and there's still plenty of opportunity to join in the fun.  Registrations for the conference will remain open until the week of the conference, or until we sell out; but if you want one of our fantastic conference t-shirts, you'll need to have your registration finalised on Tuesday, 31 July.&lt;/p&gt;
+
+&lt;p&gt;Prices for reigstrations start at $44 for students, and $198 for individuals.  You can register at &lt;a href=&quot;http://2012.pycon-au.org/register/prices&quot;&gt;http://2012.pycon-au.org/register/prices&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h4&gt;More Events!&lt;/h4&gt;
+
+&lt;p&gt;For those of you attending the conference, you'll be pleased to know that we've confirmed a few more of our events for the conference.  The annual PyLadies breakfast is happening on the Saturday, before conference festivities start, at Wrest Point's Pier One waterfront restaurant.  This event is open to all female delegates to the conference, and is being sponsored by our good friends at Google Australia.&lt;/p&gt;
+
+&lt;p&gt;We've also finalised details of our conference dinner -- we'll be sharing details of these with you next week, but needless to say, we're very excited about it, and can't wait to share this with you.&lt;/p&gt;
+
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsors: Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;), and the Australian Computer Society (Tasmanian Branch) (&lt;a href=&quot;http://www.acs.org.au&quot;&gt;www.acs.org.au&lt;/a&gt;); our Event partners: Kogan, and Secret Lab; and our Silver sponsors: the Python Software Foundation, the Django Software Foundation, Anchor Systems, 99designs, Red Hat, BitBucket by Atlassian, ekit, Ionata Web Solutions, RimuHosting, and CSIRO.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 22 Jul 2012 15:53:15 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/31</guid>
+    </item>
+    <item>
+      <title>Accommodation and registration deadlines fast approaching!</title>
+      <link>http://2012.pycon-au.org/media/news/30</link>
+      <description>&lt;p&gt;With little over one month remaining before PyCon Australia 2012 kicks
+off in Hobart, Tasmania, there are some important conference deadlines
+fast approaching.  There's just one week left to book conference
+accommodation at the conference venue, and only registrations
+completed before the end of July will include a conference T-shirt.&lt;/p&gt;
+
+
+&lt;h4&gt;Accommodation -- Book by Tuesday 17 July&lt;/h4&gt;
+
+&lt;p&gt;Our conference venue, Wrest Point, has a number of hotel rooms
+reserved for PyCon Australia delegates, at guaranteed prices.  These
+are good value-for-money, and are all very close to the conference
+rooms.&lt;/p&gt;
+
+&lt;p&gt;These rates will only be guaranteed for delegates who reserve their
+rooms on or before Tuesday 17 July 2012.  For details of prices, room
+types, and how to book, see our website at
+&lt;a href=&quot;http://2012.pycon-au.org/register/accommodation&quot;&gt;http://2012.pycon-au.org/register/accommodation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To reserve your room, one night's (refundable) deposit must be paid on
+reservation.&lt;/p&gt;
+
+
+&lt;h4&gt;Conference Registration -- Register by Tuesday 31 July to guarantee
+your t-shirt&lt;/h4&gt;
+
+&lt;p&gt;Conference registrations will be open until just before the conference
+kicks off, unless we sell out earlier.  However, we need final numbers
+for our t-shirt supplier at the start of August.  So, if you want your
+conference t-shirt, please register before Tuesday 31 July!&lt;/p&gt;
+
+
+&lt;p&gt;If you've got any queries about the conference, registration or
+accommodation, please don't hesitate to get in contact with us through
+e-mail at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;See you here in August!&lt;/p&gt;
+
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsors: Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;), and the Australian Computer Society (Tasmanian Branch) (&lt;a href=&quot;http://www.acs.org.au&quot;&gt;www.acs.org.au&lt;/a&gt;); our Event partners: Kogan, and Secret Lab; and our Silver sponsors: the Python Software Foundation, the Django Software Foundation, Anchor Systems, 99designs, Red Hat, ekit, Ionata Web Solutions, RimuHosting, and CSIRO.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 08 Jul 2012 18:36:33 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/30</guid>
+    </item>
+    <item>
+      <title>Wrest Point Accommodation Update</title>
+      <link>http://2012.pycon-au.org/media/news/29</link>
+      <description>&lt;p&gt;As part of PyCon Australia 2012, we're offering accommodation deals through our conference venue, Wrest Point, for delegates attending the conference.&lt;/p&gt;
+
+&lt;p&gt;Wrest Point have recently reduced their public rates for all classes of room, so we have renegotiated our group rate for the conference to reflect the current general public rate for these rooms.  In most cases, these represent a 20% discount upon our original guaranteed rates.&lt;/p&gt;
+
+&lt;p&gt;The rates are guaranteed until &lt;strong&gt;Tuesday 17 July&lt;/strong&gt;, and are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mountainside (3.5 stars): $105/night&lt;/li&gt;
+&lt;li&gt;Water Edge (4 stars): $115/night&lt;/li&gt;
+&lt;li&gt;Tower (Mountain View) (4.5 stars): $135/night&lt;/li&gt;
+&lt;li&gt;Tower (Harbour View) (4.5 stars): $163/night&lt;/li&gt;
+&lt;li&gt;Suite (4.5 stars): $228/night&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that there are limited numbers of Mountainside rooms remaining.  All rooms are available on a single, double or twin-share basis, with extra beds available for $35/night&lt;/p&gt;
+
+&lt;p&gt;For details, sample room photographs, and booking instructions, see our web site at &lt;a href=&quot;http://2012.pycon-au.org/register/accommodation&quot;&gt;http://2012.pycon-au.org/register/accommodation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bookings made under our original guaranteed rates &lt;strong&gt;will be discounted to reflect these new rates&lt;/strong&gt;, including refunds of room deposits on checkout if applicable.  If you have any queries, please e-mail the conference organisers at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 27 Jun 2012 22:30:43 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/29</guid>
+    </item>
+    <item>
+      <title>PyCon Australia 2012 Conference Programme Revealed!</title>
+      <link>http://2012.pycon-au.org/media/news/27</link>
+      <description>&lt;p&gt;(Hobart Tasmania, 15 June 2012) With both of our keynotes announced, PyCon Australia is very proud to be able to reveal the programme for the 2012 conference, to be held on Saturday 18 and Sunday 19 August 2012 in Hobart, Tasmania.&lt;/p&gt;
+
+&lt;p&gt;Following an impressive response to our Call for Proposals the conference will feature three full tracks of presentations and tutorials, across two days, covering all aspects of the Python ecosystem, presented by experts and core developers of key Python technology.&lt;/p&gt;
+
+&lt;p&gt;Our keynote presenters, &lt;a href=&quot;http://2012.pycon-au.org/media/news/24&quot;&gt;Mark Ramm, Engineering Manager on Juju at Canonical&lt;/a&gt;, and &lt;a href=&quot;http://2012.pycon-au.org/media/news/18&quot;&gt;Kenneth Reitz, Python lead at Heroku&lt;/a&gt; will be joined by a wide array of presenters covering a broad range of backgrounds, including industry, research, government and academia.&lt;/p&gt;
+
+&lt;p&gt;As ever, PyCon Australia is a great place to keep up-to-date with the latest trends in Python web technology: From Heroku, Lincoln Stoll will be presenting on the &lt;a href=&quot;http://2012.pycon-au.org/schedule/59/view_talk?day=sunday&quot;&gt;12 Factor Method for building software-as-a-service apps&lt;/a&gt;. Other web related topics include deployment and testing techniques for Django applications and techniques for asynchronous web programming.&lt;/p&gt;
+
+&lt;p&gt;There's also a wide range of talks for the rapidly growing community of developers using Python in science.  &lt;a href=&quot;http://2012.pycon-au.org/schedule/67/view_talk?day=saturday&quot;&gt;Edward Schofield's survey of the latest developments in Python for Science and Engineering&lt;/a&gt; will get you up to scratch on what tools and techniques are shaping the Python world for scientists.  From there, case studies and introductory talks will delve into all aspects of Python in science: including techniques for handling large scientific data sets, natural language processing, and data visualisation -- attendees working with Python in all fields of science will gain something from PyCon Australia 2012.&lt;/p&gt;
+
+&lt;p&gt;Finally, for newcomers to Python looking to quickly enhance their Python skillset, &lt;a href=&quot;http://2012.pycon-au.org/schedule/56/view_talk?day=saturday&quot;&gt;Graeme Cross' tutorials&lt;/a&gt; in our Classroom stream will help you to rapidly enhance your knowledge of Python -- you can then attend our general stream talks to glean a snapshot of the state of the art in Python.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia 2012 programme committee chair, Richard Jones, was impressed with the level of response to the Call for Proposals, which closed in early May: &lt;em&gt;&quot;We had an unprecedented response to our Call for Proposals this year, and this has helped us to put together one of the strongest programmes ever at PyCon Australia. There's something for every developer working with Python in this year's programme -- be they working in web technology, in research, or even if they're just a Python enthusiast who wants to learn more about their favourite language.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The full schedule for PyCon Australia 2012 can be found at &lt;a href=&quot;http://2012.pycon-au.org/programme/schedule&quot;&gt;http://2012.pycon-au.org/programme/schedule&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Registrations for PyCon Australia 2012 are now open, with prices starting at AU$44 for students, and tickets for the general public starting at AU$198.  All prices include GST, and more information can be found at &lt;a href=&quot;http://2012.pycon-au.org/register/prices&quot;&gt;http://2012.pycon-au.org/register/prices&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We're looking forward to seeing this excellent programme brought to life at PyCon Australia 2012, in Hobart, in August.&lt;/p&gt;
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsors: Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;), and the Australian Computer Society (Tasmanian Branch) (&lt;a href=&quot;http://www.acs.org.au&quot;&gt;www.acs.org.au&lt;/a&gt;); our Event partners: Kogan, and Secret Lab; and our Silver sponsors: the Python Software Foundation, the Django Software Foundation, Anchor Systems, 99designs, Red Hat, ekit, RimuHosting, and CSIRO.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 14 Jun 2012 07:19:13 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/27</guid>
+    </item>
+    <item>
+      <title>Mark Ramm joins PyCon Australia 2012 as a Keynote Presenter</title>
+      <link>http://2012.pycon-au.org/media/news/24</link>
+      <description>&lt;p&gt;PyCon Australia, the national conference for the Python programming community is happy to announce that veteran Python web developer &lt;a href=&quot;http://compoundthinking.com/blog&quot;&gt;Mark Ramm&lt;/a&gt; will be joining the 2012 conference as a keynote presenter.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia 2012 will be held in Hobart, Tasmania on Saturday 18 and Sunday 19 August, 2012.&lt;/p&gt;
+
+&lt;div style=&quot;float:right;&quot;&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/daninrgb/3405945302/&quot; title=&quot;Mark Ramm by daninrgb, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3664/3405945302_b0bc82ba32.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;Mark Ramm&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Where do the tools of the scientist meet the tools of product design for high-growth Startups? Mark explains: &lt;em&gt;&quot;There’s been a lot of buzz about 'Lean Startups,' 'Customer Development,' 'Business Model Generation' and related topics lately, and there is a real transformation in the way we design and build products at work behind all that buzz -- the fundamental principle behind all of them is applying scientific and experimental methodologies to product design decision making.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&quot;Fortunately Python is a great tool for those looking to apply data science to product design.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In Mark's previous role as Director of Engineering at &lt;a href=&quot;http://SourceForge.net&quot;&gt;SourceForge.net&lt;/a&gt;, he set out to prove the value of these tools in an established organisation, eventually transforming their development practices, and the entire SourceForge.net product around it, to help them meet the needs of their users quicker.  He now works as Engineering Manager on the Juju team at Canonical, helping developers rapidly deploy services to the cloud.&lt;/p&gt;
+
+&lt;p&gt;A regular presenter at Python-related conferences around the world, including PyCon US, EuroPython, Kiwi PyCon and OSCON; Mark is also the co-BDFL of the TurboGears web framework, and is a regular contributor to the Pyramid ecosystem.&lt;/p&gt;
+
+&lt;p&gt;We're looking forward to hearing Mark's guide to developing startups with the tools of the scientist in August.  Conference registrations are now open at &lt;a href=&quot;http://2012.pycon-au.org/register/prices&quot;&gt;http://2012.pycon-au.org/register/prices&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Photo Credit: &lt;a href=&quot;http://www.flickr.com/photos/daninrgb/3405945302/&quot;&gt;Mark Ramm&lt;/a&gt; by Flickr user daninrgb, CC-BY-NC)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsors: Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;), and the Australian Computer Society (Tasmanian Branch) (&lt;a href=&quot;http://www.acs.org.au&quot;&gt;www.acs.org.au&lt;/a&gt;); our Event partners: Kogan, and Secret Lab; and our Silver sponsors: the Python Software Foundation, the Django Software Foundation, Anchor Systems, 99designs, Red Hat, ekit, RimuHosting, and CSIRO.&lt;/p&gt;</description>
+      <pubDate>Tue, 12 Jun 2012 18:26:21 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/24</guid>
+    </item>
+    <item>
+      <title>PyCon Australia 2012 and Google Australia announce gender diversity grants</title>
+      <link>http://2012.pycon-au.org/media/news/20</link>
+      <description>&lt;p&gt;PyCon Australia and Google Australia are pleased to announce that they're joining forces to offer gender diversity delegate grants to women who wish to attend PyCon Australia in 2012. These grants will cover up to $AUD500 of travel, accommodation and registration costs for women living outside of the Southern Tasmania region to attend this year's conference.&lt;/p&gt;
+
+&lt;p&gt;These grants aim to reduce the financial barriers to attending PyCon Australia 2012, by subsidising the registration and travel costs of people from diverse groups, who contribute in important ways to the Python community.&lt;/p&gt;
+
+&lt;p&gt;More information can be found at &lt;a href=&quot;http://2012.pycon-au.org/diversity_grants&quot;&gt;http://2012.pycon-au.org/diversity_grants&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Eligibility&lt;/h3&gt;
+
+&lt;p&gt;In order to be eligible for one of the grants, you must be:
+&lt;ul&gt; 
+&lt;li&gt;A woman, aged 18 or older&lt;/li&gt;
+&lt;li&gt;A professional, enthusiast or student interested in, or currently working in Python-related fields or projects&lt;/li&gt;
+&lt;li&gt;Planning to attend both days of PyCon Australia 2012&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In order to be eligible for the travel and accommodation grant, you must additionally:
+live further than 150 km (by road) from the conference venue.&lt;/p&gt;
+
+&lt;p&gt;(If you are unsure, please visit &lt;a href=&quot;http://maps.google.com.au/maps/place?q=Wrest%20Point,%20Tasmania&quot;&gt;http://maps.google.com.au/maps/place?q=Wrest%20Point,%20Tasmania&lt;/a&gt; and use the &quot;Get Directions&quot; link in the upper left-hand corner to calculate the driving distance from your place of residence to the venue.)&lt;/p&gt;
+
+&lt;p&gt;More information can be found at &lt;a href=&quot;http://2012.pycon-au.org/diversity_grants&quot;&gt;http://2012.pycon-au.org/diversity_grants&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Award Amount&lt;/h3&gt;
+
+&lt;p&gt;All selected grant recipients will be extended the Early Bird registration rates to PyCon Australia, provided registration is completed prior to 13 July.&lt;/p&gt;
+
+&lt;p&gt;In addition, recipients of the travel and accommodation grant will be reimbursed up to $500 in travel and accommodation costs.&lt;/p&gt;
+
+&lt;p&gt;More information can be found at &lt;a href=&quot;http://2012.pycon-au.org/diversity_grants&quot;&gt;http://2012.pycon-au.org/diversity_grants&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Timeline&lt;/h3&gt;
+
+&lt;p&gt;Applications for the gender diversity delegates grants are open now, and will close on Friday 22 June  We will notify all successful recipients of their award by Friday 29 June so that you can have ample time to complete your travel plans.&lt;/p&gt;
+
+&lt;p&gt;More information can be found at &lt;a href=&quot;http://2012.pycon-au.org/diversity_grants&quot;&gt;http://2012.pycon-au.org/diversity_grants&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsors: Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;), and the Australian Computer Society (Tasmanian Branch) (&lt;a href=&quot;http://www.acs.org.au&quot;&gt;www.acs.org.au&lt;/a&gt;); our Event partner, Secret Lab; and our Silver sponsors: the Python Software Foundation, the Django Software Foundation, Anchor Systems, Red Hat, ekit, RimuHosting, and CSIRO.&lt;/p&gt;</description>
+      <pubDate>Tue, 29 May 2012 22:58:58 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/20</guid>
+    </item>
+    <item>
+      <title>PyCon Australia 2012 Early Bird registrations almost sold out!</title>
+      <link>http://2012.pycon-au.org/media/news/19</link>
+      <description>&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt;: PyCon Australia's Early Bird registrations are on sale until this Friday, 1 June -- or until we've sold 60 tickets. There's fewer than 15 left now, so hurry! Find out more at &lt;a href=&quot;http://2012.pycon-au.org/register/prices&quot;&gt;http://2012.pycon-au.org/register/prices&lt;/a&gt;, including details of our accommodation programme.&lt;/p&gt;
+
+&lt;p&gt;Are you planning on coming to PyCon Australia 2012, the national conference for the Python programming community? If you've been putting off your registration, now is an excellent time to act: there's fewer than 10 Early Bird tickets left for the conference, and these &lt;strong&gt;WILL&lt;/strong&gt; sell out before the deadline of Friday 1 June.&lt;/p&gt;
+
+&lt;p&gt;Early Bird registration rates are available from $165 for &quot;Enthusiast&quot;-level tickets, or $420 for &quot;Professional&quot;-level tickets; each of these represents a saving of more than 10% on our regular prices.  All tickets include access to the CodeWars event on Friday 17 August, and the post-conference sprints on Monday 20 and Tuesday 21 August.&lt;/p&gt;
+
+&lt;p&gt;For full details of what comes with each of our tickets, and for more information about the conference itself, visit &lt;a href=&quot;http://2012.pycon-au.org/register/prices&quot;&gt;http://2012.pycon-au.org/register/prices&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsors: Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;), and the Australian Computer Society (Tasmanian Branch) (&lt;a href=&quot;http://www.acs.org.au&quot;&gt;www.acs.org.au&lt;/a&gt;); our Event partner, Secret Lab; and our Silver sponsors: the Python Software Foundation, the Django Software Foundation, Anchor Systems, Red Hat, ekit, RimuHosting, and CSIRO.&lt;/p&gt;</description>
+      <pubDate>Sat, 26 May 2012 04:25:29 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/19</guid>
+    </item>
+    <item>
+      <title>Heroku's Kenneth Reitz to present keynote at PyCon Australia 2012</title>
+      <link>http://2012.pycon-au.org/media/news/18</link>
+      <description>&lt;p&gt;With Early Bird registrations well underway, PyCon Australia is very pleased to announce &lt;a href=&quot;http://kennethreitz.com&quot;&gt;Kenneth Reitz&lt;/a&gt; of Heroku as the first of its keynote speakers for the 2012 conference, to be held on August 18 and 19 in Hobart, Tasmania.&lt;/p&gt;
+
+&lt;div style=&quot;float:right;&quot;&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/kennethreitz/5246672207/&quot; title=&quot;Kenneth Reitz by kennethreitz, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5241/5246672207_8506a6a53d_m.jpg&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Kenneth Reitz&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As the world of software development turns to making things more usable for end-users of applications, making libraries and APIs easy for developers themselves to use often becomes an afterthought.  Even in the Python world, many key APIs are a pain to work with. &lt;em&gt; &quot;Unfortunately, solving simple problems with Python isn't always 'import antigravity'. Best practices are sometimes far from obvious.&quot;&lt;/em&gt;, says Kenneth.  &lt;em&gt;&quot;My keynote will analyse the high barriers of entry that clutter the Python landscape, and I'll be discussing ways to make Python more accessible for newcomers and less of a headache for seasoned veterans.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of Kenneth's shining successes in making formerly difficult tasks easier for Python developers is the &lt;a href=&quot;https://github.com/kennethreitz/requests&quot;&gt;Requests HTTP library&lt;/a&gt; (python-requests): a tool that has transformed making HTTP requests in Python from a cumbersome and error-prone task into one that's elegant, easy to understand and easy to remember.  Such is the success of Requests, it is now considered the de facto way of making HTTP requests in Python.  python-requests is now the third most-watched Python project on GitHub, second only to projects from Facebook and Django.&lt;/p&gt;
+
+&lt;p&gt;Kenneth is now working with Heroku, overseeing the technical design of their Python application stack.  Kenneth's other popular open source projects include Legit, Clint, Python-Guide, HTTPbin, Inbox.py, OSX-GCC-Installer, and more available at &lt;a href=&quot;http://github.com/kennethreitz&quot;&gt;http://github.com/kennethreitz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We at PyCon Australia can't wait to hear Kenneth's insights on improving the Python ecosystem in August!  Registration is open at &lt;a href=&quot;http://2012.pycon-au.org&quot;&gt;http://2012.pycon-au.org&lt;/a&gt; with Early Bird rates available to the first 60 paid delegates, or until Friday 1 June, 2012.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;em&gt;(Photo Credit: &lt;a href=&quot;http://www.flickr.com/photos/55840726@N05/5246672207&quot;&gt;&quot;Kenneth Reitz&quot;&lt;/a&gt; by Kenneth Reitz, CC-BY. )&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsor, Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;); our Event partner, Secret Lab; and our Silver sponsors, the Python Software Foundation, Anchor Systems, Red Hat, ekit, and CSIRO.&lt;/p&gt;
+
+
+&lt;h3&gt;About Heroku&lt;/h3&gt;
+
+&lt;p&gt;Heroku is a cloud application platform – a new way of building and deploying web apps. Developers can focus 100% on  code and never think about servers, instances, or VMs again. Tens of thousands of developers have already deployed hundreds of thousands of apps to Heroku.  For more information, visit &lt;a href=&quot;http://heroku.com&quot;&gt;heroku.com&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 17 May 2012 21:36:21 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/18</guid>
+    </item>
+    <item>
+      <title>PyCon Australia 2012's Call for Proposals closes this Friday</title>
+      <link>http://2012.pycon-au.org/media/news/17</link>
+      <description>&lt;p&gt;This week marks your last opportunity to submit proposals to present at PyCon Australia 2012, the national conference for the Python programming community, to be held on August 18 and 19 in Hobart, Tasmania.&lt;/p&gt;
+
+&lt;p&gt;The deadline for proposal submission is Friday May 4, 2012, and more information can be found at &lt;a href=&quot;http://pycon-au.org/cfp&quot;&gt;http://pycon-au.org/cfp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is an excellent opportunity to share experience and knowledge with like-minded Python developers from all walks of life -- we attract professional developers from industry, government, science and education, along with enthusiast and student developers.  Presentations can be targeted at all skill levels, on any topic related to Python programming.&lt;/p&gt;
+
+&lt;p&gt;If you're a first-time developer, don't be afraid to submit a presentation -- we're a community-driven conference, and we have a focus on building the next generation of Python programmers.&lt;/p&gt;
+
+&lt;p&gt;Don't know what to present about? PyCon Australia co-organiser, Christopher Neugebauer recently listed the &lt;a href=&quot;http://chris.neugebauer.id.au/2012/03/03/speak-at-pycon-australia-2012/&quot;&gt;results of PyCon Australia 2012's Call for Topics&lt;/a&gt; on his blog; we'd love it if you used these suggestions to help shape your submission.&lt;/p&gt;
+
+&lt;p&gt;We can't wait to see your proposals.&lt;/p&gt;
+
+
+&lt;h3&gt; About PyCon Australia &lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python. PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://pycon-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsor, Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;); our Event partner, Secret Lab; and our Silver  sponsors, the Python Software Foundation, Anchor Systems, Red Hat, ekit, and CSIRO.&lt;/p&gt;</description>
+      <pubDate>Sun, 29 Apr 2012 19:39:42 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/17</guid>
+    </item>
+    <item>
+      <title>PyCon Australia 2012 Early Bird registration and Accommodation deals now available!</title>
+      <link>http://2012.pycon-au.org/media/news/15</link>
+      <description>&lt;p&gt;&lt;strong&gt;tl;dr:&lt;/strong&gt; PyCon Australia early bird registrations are now open! Find out more at &lt;a href=&quot;http://2012.pycon-au.org/register/prices&quot;&gt;http://2012.pycon-au.org/register/prices&lt;/a&gt;, including details of our accommodation programme.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is excited to announce that &lt;a href=&quot;http://2012.pycon-au.org/register/prices&quot;&gt;early bird conference registrations are now available&lt;/a&gt; for our 2012 conference, to be held on Saturday 18 and Sunday 19 August in Hobart, Tasmania.  Early bird registration will be extended to the first 60 confirmed conference registrations, or until Friday 1 June, whichever comes first.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for students, enthusiasts and professionals working with the Python programming language; it represents a unique opportunity for Python developers to meet fellow developers, and gain knowledge from experts and core Python developers from around Australia and the world.  Securing your registration during the early bird period ensures your place at all of the events that PyCon Australia has to offer.&lt;/p&gt;
+
+&lt;p&gt;Early bird registration comes with a substantial discount for tickets at our &quot;Enthusiast&quot;  and &quot;Professional&quot; rates.  Early bird tickets at both the &quot;Enthusiast&quot; and &quot;Professional&quot; level are guaranteed a seat at our conference dinner.  All tickets include access to the CodeWars event on Friday 17 August, and the post-conference sprints on Monday 20 and Tuesday 21 August.&lt;/p&gt;
+
+&lt;p&gt;Early bird registration starts at $44 for full-time students; $168 for enthusiasts and $420 for professionals.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia has been working closely with our venue to provide a great conference experience; we're very pleased to be able to offer &lt;a href=&quot;http://2012.pycon-au.org/register/accommodation&quot;&gt;accommodation to delegates&lt;/a&gt; for the duration of the conference.  We've secured an allocation of rooms within the Wrest Point complex, many of which are in the same building as the conference venue.  Rooms available to delegates start at $124 per night; rooms inside the conference building start at $146 per night.&lt;/p&gt;
+
+&lt;p&gt;Information on conference registration, including details on how to book delegate accommodation through our preferred provider can be found at the &lt;a href=&quot;http://2012.pycon-au.org/register/prices&quot;&gt;PyCon Australia website (http://2012.pycon-au.org)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our conference &lt;a href=&quot;http://2012.pycon-au.org/programme/call_for_proposals&quot;&gt;Call for Proposals&lt;/a&gt; is still open, and will close on Friday 4 May.&lt;/p&gt;
+
+&lt;p&gt;We can't wait to see you in Hobart in August!&lt;/p&gt;
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python.  PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://python-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsor, Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;).&lt;/p&gt;</description>
+      <pubDate>Wed, 18 Apr 2012 09:06:58 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/15</guid>
+    </item>
+    <item>
+      <title>PyCon Australia 2012 Call for Proposals: Now Open!</title>
+      <link>http://2012.pycon-au.org/media/news/10</link>
+      <description>&lt;p&gt;PyCon Australia 2012 is pleased to announce that its Call for Proposals is now open! The conference this year will be held on Saturday 18 and Sunday 19 August 2012 in Hobart, Tasmania.&lt;/p&gt;
+
+&lt;p&gt;The deadline for proposal submission is Friday May 4, 2012, and more information can be found at &lt;a href=&quot;http://pycon-au.org/cfp&quot;&gt;http://pycon-au.org/cfp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia attracts professional developers from all walks of life, including industry, government, and science, as well as enthusiast and student developers. We’re looking for proposals for presentations and tutorials on any aspect of Python programming, at all skill levels from novice to advanced.&lt;/p&gt;
+
+&lt;p&gt;Presentation subjects may range from reports on open source, academic or commercial projects; or even tutorials and case studies. If a presentation is interesting and useful to the Python community, it will be considered for inclusion in the program.&lt;/p&gt;
+
+&lt;p&gt;We're especially interested in short presentations that will teach conference-goers something new and useful. Can you show attendees how to use a module? Explore a Python language feature? Package an application?&lt;/p&gt;
+
+&lt;p&gt;We welcome first-time speakers; we are a community conference and we are eager to hear about your experience. If you have friends or colleagues who have something valuable to contribute, twist their arms to tell us about it! Please also forward this Call for Proposals to anyone that you feel may be interested.&lt;/p&gt;
+
+&lt;p&gt;To find out more go to the official Call for Proposals page here: &lt;a href=&quot;http://pycon-au.org/cfp&quot;&gt;http://pycon-au.org/cfp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;See you in Hobart in August!&lt;/p&gt;
+
+&lt;h3&gt;About PyCon Australia&lt;/h3&gt;
+
+&lt;p&gt;PyCon Australia is the national conference for the Python Programming Community. The third PyCon Australia will be held on August 18 and 19, 2012 in Hobart, Tasmania, bringing together professional, student and enthusiast developers with a love for developing with Python.  PyCon Australia informs the country’s Python developers with presentations, tutorials and panel sessions by experts and core developers of Python, as well as the libraries and frameworks that they rely on.&lt;/p&gt;
+
+&lt;p&gt;To find out more about PyCon Australia 2012, visit our website at &lt;a href=&quot;http://python-au.org&quot;&gt;http://pycon-au.org&lt;/a&gt; or e-mail us at &lt;a href=&quot;mailto:contact@pycon-au.org&quot;&gt;contact@pycon-au.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PyCon Australia is presented by Linux Australia (&lt;a href=&quot;http://www.linux.org.au&quot;&gt;www.linux.org.au&lt;/a&gt;) and acknowledges the support of our Gold sponsor, Google Australia (&lt;a href=&quot;http://www.google.com.au&quot;&gt;www.google.com.au&lt;/a&gt;).&lt;/p&gt;</description>
+      <pubDate>Wed, 22 Feb 2012 02:00:15 +1000</pubDate>
+      <guid>http://2012.pycon-au.org/media/news/10</guid>
+    </item>
+    <atom:link href="http://2012.pycon-au.org/media/news/rss" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

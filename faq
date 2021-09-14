@@ -1,0 +1,478 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-us">
+    <head>
+        <title>
+Frequently Asked Questions -
+ PyCon Australia 2012 | 18-19 August | Hobart, Tasmania
+</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!-- <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"> -->
+        <link rel="shortcut icon" href="images/filledfoot-small.png" type="image/png">
+        <link rel="stylesheet" media="screen" href="screen.css" type="text/css">
+        <link rel="stylesheet" media="print" href="print.css" type="text/css">
+        <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+	<link rel="stylesheet" href="prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	<script src="prettyPhoto/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/jquery.cross-slide.min.js" type="text/javascript" charset="utf-8"></script>
+        <link href="media/news/rss" rel="alternate" type="application/rss+xml" title="LCA2012 News">
+        <!--[if IE 6]><link rel="stylesheet" href="brisbanecity.ie6.css" type="text/css" media="screen" /><![endif]-->
+        <!--[if IE 7]><link rel="stylesheet" href="brisbanecity.ie7.css" type="text/css" media="screen" /><![endif]-->
+	<script type="text/javascript" charset="utf-8">
+	  $(document).ready(function(){
+	    $("a[rel^='lightbox']").prettyPhoto({social_tools: ''});
+	  });
+	</script>
+        <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1446075-7']);
+        _gaq.push(['_setDomainName', 'lcaunderthestars.org.au']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+                            
+        </script>
+
+
+        
+
+
+
+        <script type="text/javascript">
+           jQuery(document).ready(function() {
+             jQuery("#flash > div").hide().fadeIn(3500);
+             jQuery("#flash > div").fadeTo(3000, 0.3);
+             jQuery("#flash > div").hover(function() {
+               jQuery(this).fadeTo(250, 1);
+             },function(){
+               jQuery(this).fadeTo(250, 0.3);
+             });
+ jQuery('#sponsorsother').crossSlide({
+                                                      sleep: 5,
+                                                      fade: 1,
+                                                      shuffle: 1
+                                                    }, [
+{ src: '/images/sponsors/99designs.png' },
+/*{ src: '/images/sponsors/acs.png' },*/
+{ src: '/images/sponsors/anchor.gif' },
+{ src: '/images/sponsors/atlassian.png' },
+{ src: '/images/sponsors/aw_ph.png' },
+{ src: '/images/sponsors/azure.png' },
+{ src: '/images/sponsors/csiro.png' },
+{ src: '/images/sponsors/django.png' },
+{ src: '/images/sponsors/ekit.png' },
+/*{ src: '/images/sponsors/Google.png' },*/
+{ src: '/images/sponsors/heroku.png' },
+{ src: '/images/sponsors/ionata.png' },
+{ src: '/images/sponsors/kogan.png' },
+{ src: '/images/sponsors/linuxaus.png' },
+{ src: '/images/sponsors/mozilla.png' },
+{ src: '/images/sponsors/newrelic.png' },
+{ src: '/images/sponsors/oreilly.png' },
+{ src: '/images/sponsors/python.png' },
+{ src: '/images/sponsors/red_hat.png' },
+{ src: '/images/sponsors/rimuhosting.png' },
+{ src: '/images/sponsors/secret_lab.png' },
+                                                ]);
+});
+        </script>  
+    </head>
+    
+  <body>
+
+        <div id="netv-main">
+            <div class="netv-sheet">
+                <div class="netv-sheet-tl"></div>
+                <div class="netv-sheet-tr"></div>
+                <div class="netv-sheet-bl"></div>
+                <div class="netv-sheet-br"></div>
+                <div class="netv-sheet-tc"></div>
+                <div class="netv-sheet-bc"></div>
+                <div class="netv-sheet-cl"></div>
+                <div class="netv-sheet-cr"></div>
+                <div class="netv-sheet-cc"></div>
+                <div class="netv-sheet-body">
+                    <div class="netv-header">
+                        <div class="netv-header-jpeg"></div>
+                    </div>
+                        
+<div class="netv-nav">
+<div class="l"></div>
+<div class="r"></div>
+      <ul class="netv-menu">
+          <li class=""><a href="person/signout"><span class="l"></span><span class="r"></span><span class="t">Home</span></a></li>
+
+          <li class=""><a href="about/pycon_australia"><span class="l"></span><span class="r"></span><span class="t">About</span></a></li>
+
+          <li class=""><a href="register/prices"><span class="l"></span><span class="r"></span><span class="t">Register</span></a></li>
+
+          <li class=""><a href="sponsors/sponsors"><span class="l"></span><span class="r"></span><span class="t">Sponsors</span></a></li>
+
+          <li class=""><a href="programme/overview"><span class="l"></span><span class="r"></span><span class="t">Programme</span></a></li>
+
+          <li class=""><a href="media/news.1"><span class="l"></span><span class="r"></span><span class="t">News</span></a></li>
+
+          <li class=""><a href="diversity_grants"><span class="l"></span><span class="r"></span><span class="t">Diversity Grants</span></a></li>
+
+          <li class="selected"><a href="faq"><span class="l"></span><span class="r"></span><span class="t">FAQ</span></a></li>
+
+          <li class=""><a href="contact"><span class="l"></span><span class="r"></span><span class="t">Contact</span></a></li>
+
+      </ul>
+</div>
+                        
+
+
+
+                        
+
+                </div>
+                <div class="netv-content-layout">
+                    <div class="netv-content-layout-row">
+                        <div class="netv-layout-cell netv-sidebar1">
+                           <div class="netv-vmenublock">
+                                <div class="netv-vmenublock-tl"></div>
+                                <div class="netv-vmenublock-tr"></div>
+                                <div class="netv-vmenublock-bl"></div>
+                                <div class="netv-vmenublock-br"></div>
+                                <div class="netv-vmenublock-tc"></div>
+                                <div class="netv-vmenublock-bc"></div>
+                                <div class="netv-vmenublock-cl"></div>
+                                <div class="netv-vmenublock-cr"></div>
+                                <div class="netv-vmenublock-cc"></div>
+                                <div class="netv-vmenublock-body">
+                                    <div class="netv-vmenublockcontent">
+                                        <div class="netv-vmenublockcontent-body">
+                                            <!-- block-content -->
+                                            
+
+
+
+
+  
+<ul class="netv-vmenu">
+      
+
+      <li><a href="person/signin"><span class="l"></span><span class="r"></span><span class="t">Sign in</span></a>
+
+      
+
+      <li><a href="person/new"><span class="l"></span><span class="r"></span><span class="t">Create an account</span></a>
+
+<div style="text-align:center;">
+</div>
+</ul>
+
+                                            <div class="cleared"></div>
+                                        </div>
+                                    </div>
+                                    <div class="cleared"></div>
+                                </div>
+                            </div>
+
+                            <div class="netv-block">
+                                <div class="netv-block-tl"></div>
+                                <div class="netv-block-tr"></div>
+                                <div class="netv-block-bl"></div>
+                                <div class="netv-block-br"></div>
+                                <div class="netv-block-tc"></div>
+                                <div class="netv-block-bc"></div>
+                                <div class="netv-block-cl"></div>
+                                <div class="netv-block-cr"></div>
+                                <div class="netv-block-cc"></div>
+                                <div class="netv-block-body">
+                                    <div class="netv-blockheader">
+                                        <div class="l"></div>
+                                        <div class="r"></div>
+                                        <div class="t">News</div>
+                                    </div>
+                                    <div class="netv-blockcontent">
+                                        <div class="netv-blockcontent-body">
+                                            <!-- block-content -->
+                                            			<ul>
+	<li><a href="media/news/36">Call for Volunteers</a> <div class="date">(2012-08-08)</div></li>
+	<li><a href="media/news/33">PyCon Australia dinner cruise and reception</a> <div class="date">(2012-07-30)</div></li>
+	<li><a href="media/news/31">Four weeks until PyCon Australia 2012: Have you registered yet?</a> <div class="date">(2012-07-22)</div></li>
+	<li><a href="media/news/30">Accommodation and registration deadlines fast approaching!</a> <div class="date">(2012-07-08)</div></li>
+			</ul>
+			<p class = 'more'><a href = 'media/news.1'>More news...</a></p>
+
+                                            <!-- /block-content -->
+                                            <div class="cleared"></div>
+                                        </div>
+                                    </div>
+                                    <div class="cleared"></div>
+                                </div>
+                            </div>
+
+                            <div class="netv-block">
+                                <div class="netv-block-tl"></div>
+                                <div class="netv-block-tr"></div>
+                                <div class="netv-block-bl"></div>
+                                <div class="netv-block-br"></div>
+                                <div class="netv-block-tc"></div>
+                                <div class="netv-block-bc"></div>
+                                <div class="netv-block-cl"></div>
+                                <div class="netv-block-cr"></div>
+                                <div class="netv-block-cc"></div>
+                                <div class="netv-block-body">
+                                    <div class="netv-blockheader">
+                                        <div class="l"></div>
+                                        <div class="r"></div>
+                                        <div class="t">Sponsors</div>
+                                    </div>
+                                    <div class="netv-blockcontent">
+                                        <div class="netv-blockcontent-body" style="padding-left:28px">
+                                            <!-- block-content -->
+                                            <a href="sponsors/sponsors" style="text-decoration: none;">
+<img src="images/sponsors/Google.png" />
+<img src="images/sponsors/acs.png" />
+<div id="sponsorsother" style="width: 200px; height:200px; margin:5px; margin-top:20px;">
+	<img src="images/sponsors/linuxaus.png">
+</div>
+</a>
+
+                                            <!-- /block-content -->
+                                            <div class="cleared"></div>
+                                        </div>
+                                    </div>
+                                    <div class="cleared"></div>
+                                </div>
+                            </div>
+
+                            <div class="netv-block">
+                                <div class="netv-block-tl"></div>
+                                <div class="netv-block-tr"></div>
+                                <div class="netv-block-bl"></div>
+                                <div class="netv-block-br"></div>
+                                <div class="netv-block-tc"></div>
+                                <div class="netv-block-bc"></div>
+                                <div class="netv-block-cl"></div>
+                                <div class="netv-block-cr"></div>
+                                <div class="netv-block-cc"></div>
+                                <div class="netv-block-body" style="padding: 0px;">
+                                    <div class="netv-blockcontent" style="padding: 0px;">
+                                        <div class="netv-blockcontent-body" style="padding: 0px;">
+                                            <!-- block-content -->
+                                            <div style="padding: 0.5em">
+<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  search: 'pyconau',
+  rpp: 4,
+  interval: 10000,
+  title: '',
+  subject: '#pyconau',
+  width: 'auto',
+  height: 300,
+  theme: {
+    shell: {
+      background: '#3d91d6',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#444444',
+      links: '#03008F'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    behavior: 'all'
+  }
+}).render().setUser('pyconau').start();
+</script></div>
+
+                                            <!-- /block-content -->
+                                            <div class="cleared"></div>
+                                        </div>
+                                    </div>
+                                    <div class="cleared"></div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                        <div class="netv-layout-cell netv-content">
+                            <div class="netv-post">
+                                <div class="netv-post-tl"></div>
+                                <div class="netv-post-tr"></div>
+                                <div class="netv-post-bl"></div>
+                                <div class="netv-post-br"></div>
+                                <div class="netv-post-tc"></div>
+                                <div class="netv-post-bc"></div>
+                                <div class="netv-post-cl"></div>
+                                <div class="netv-post-cr"></div>
+                                <div class="netv-post-cc"></div>
+                                <div class="netv-post-body">
+                                    <div class="netv-post-inner netv-article">
+                                           <div id="flash">
+
+    </div>
+
+                                        
+
+
+
+
+<h2>Frequently Asked Questions</h2>
+
+
+
+<div style="float: right;">
+                            <div class="netv-block">
+                                <div class="netv-block-tl"></div>
+                                <div class="netv-block-tr"></div>
+                                <div class="netv-block-bl"></div>
+                                <div class="netv-block-br"></div>
+                                <div class="netv-block-tc"></div>
+                                <div class="netv-block-bc"></div>
+                                <div class="netv-block-cl"></div>
+                                <div class="netv-block-cr"></div>
+                                <div class="netv-block-cc"></div>
+                                <div class="netv-block-body">
+                                    <div class="netv-blockheader">
+                                        <div class="l"></div>
+                                        <div class="r"></div>
+                                        <div class="t">Contents</div>
+                                    </div>
+                                    <div class="netv-blockcontent">
+                                        <div class="netv-blockcontent-body">
+                                            <ul class="netv-vmenu">
+                                                <li><a href="faq#Registration">Registration</a></li>
+<li><a href="faq#Foodanddrink">Food and drink</a></li>
+<li><a href="faq#Coffee">Coffee</a></li>
+<li><a href="faq#ImlostDoyouhaveamap">I'm lost! Do you have a map?</a></li>
+<li><a href="faq#Dinnerdetails">Dinner details</a></li>
+<li><a href="faq#DerwentRoomexplained">Derwent Room explained</a></li>
+<li><a href="faq#WhatclothesshouldIbring">What clothes should I bring?</a></li>
+<li><a href="faq#HowdoIgettoWrestPoint">How do I get to Wrest Point?</a></li>
+<li><a href="faq#Myshirtisthewrongsize">My shirt is the wrong size!</a></li>
+<li><a href="faq#Whatistheeasiestwaytogetaroundthecity">What is the easiest way to get around the city?</a></li>
+                                            </ul>
+                                            <div class="cleared"></div>
+                                        </div>
+                                    </div>
+                                    <div class="cleared"></div>
+                                </div>
+                            </div>
+</div>
+
+<a name="Registration"></a><h3>Registration</h3>
+
+<p><a href="programme/registration">Registration</a> is where you pick up your badge, shirt and other goodies and check-in to attend the conference. Registration will be open Friday night before CodeWars and Saturday Morning in <strong>different</strong> locations.</p>
+
+<p>See: <a href="programme/registration">http://2012.pycon-au.org/programme/registration</a> for details.</p>
+
+<a name="Foodanddrink"></a><h3>Food and drink</h3>
+
+<p><strong>CodeWars:</strong> Canapés and light snacks will be served at Codewars on Friday night. Drinks are to be purchased at the bar with the first round redeemed with a voucher from check-in courtesy of <em>Kogan</em>.</p>
+
+<p><strong>Conference:</strong> Morning tea, lunch and afternoon tea will all be served to delegates of PyCon AU. Food will be served in <em>Derwent 3</em> with refreshments in the <em>Portlight Bar</em>. There will be a selection of different types of finger foods and options available to those with special dietary needs.</p>
+
+<p><strong>Sprints:</strong> Morning and afternoon tea will be served for hungry hackers. For lunch and dinner we encourage participants to go out in groups and find somewhere to eat or dine at one of the on-site restaurants. Coffee and Tea will be available throughout the day.</p>
+
+<a name="Coffee"></a><h3>Coffee</h3>
+
+<p>Coffee will be available at the <em>Portlight Bar</em> kindly sponsored by <em>Secret Lab</em>. Expect high quality beverages from <a href="http://ritualcoffee.com.au/">Ritual Coffee Tasmania</a>.</p>
+
+<h3>I'm lost! Do you have a map?</h3>
+<div style="float: left; padding:10px;"><a href="map/pycon_map.png" rel="lightbox[map]"  ><img src="map/pycon_map_thumb.png" style="width:100px" /></a></div><p>Why yes, we do have a venue map (see left)! You can also get your bearings from <a href="http://goo.gl/maps/nZ5h2">Google Maps</a>.</p>
+<div style="clear: left;">&nbsp;</div>
+
+<a name="Dinnerdetails"></a><h3>Dinner details</h3>
+<p>On Saturday night <a href="programme/dinner">dinner</a> will be held at <a href="http://www.peppermintbay.com.au/">Peppermint Bay</a>. Transport will be via boat departing from Wrest Point's Jetty outside Pier One (see map above). We have a tight schedule to stick to so make sure you board the boat in time because we will leave without you!</p>
+
+<p><strong>5:15-5:35</strong> Gather near staircase outside Pier One <em>(see map above)</em> to wait outside of the cold.<br />
+<strong>5:35</strong> Follow the volunteers out onto the Jetty to begin boarding.<br />
+<strong>5:40</strong> Final call for boarding the boat.<br />
+<strong>5:45</strong> Boat departs for Peppermint Bay.<br />
+<strong>6:50</strong> Boat arrives, dinner starts.<br />
+<strong>10:00</strong> Guests are rallied back to boat.<br />
+<strong>11:00</strong> Boat docks back at Wrest Point.<br />
+
+<p>A <strong>drinks</strong> package will be served on the way and at Peppermint Bay. The first round of drinks will be kindly sponsored by <em>Mozilla</em>. On the return trip there will be a cash bar for purchases.</p>
+
+<a name="DerwentRoomexplained"></a><h3>Derwent Room explained</h3>
+<p>Why are some things in <em>Derwent 1</em>, some in <em>Derwent 3</em>, some in <em>Derwent</em>? What about <em>Derwent 2</em>!?</P>
+<p>The <em>Derwent room</em> is one big room with partitions. It is possible to partition it off into three separate rooms but we'll only ever be partitioning it off into two: <em>Derwent 1</em>, and a combined <em>Derwent 2 & 3</em>, with signage for <em>Derwent 3</em>. In the morning and afternoon sessions the partitions will be folded back to have the rooms configured as our plenary theatre for the keynotes and larger sessions. Between morning and afternoon tea the partitions will be drawn creating two rooms for our three track sessions (with the third track being in the <em>Portlight Bar</em>).</p>
+
+<p>Food service will be provided in a sectioned off area at the back of the <em>Derwent Room</em>.</p>
+
+<h3>What clothes should I bring?</h3>
+
+<p>The average temperature range in August is 5º--13ºC so pack lots of warm clothes. Hobart experiences relatively little rainfall in August, but you should still pack expecting rain.  While the cruise is on a river estuary, you don't have to sit outside (the ship is heated inside). Other than dinner we have no planned expeditions outside and we hope to light a fire for the sprints so we should all be comfortable.</p>
+
+<h3>How do I get to Wrest Point?</h3>
+
+<p><a href="http://goo.gl/maps/nZ5h2">Google Maps</a> will help get you directions. But if you want to share rides from the airport, some delegates have arranged an ad-hoc list to meet up at the airport: <a href="http://pycon-meetup.jeamland.net/">http://pycon-meetup.jeamland.net/</a>.</p>
+
+<a name="Myshirtisthewrongsize"></a><h3>My shirt is the wrong size!</h3>
+<p>Swaps of shirts will be available <strong>only after morning tea on Sunday</strong>. If your shirt doesn't fit you and the size is the one you purchased you <em>may</em> be able to swap it at the registration desk. Please do not wear the shirt if you intend on swapping it.</p>
+
+<h3>What is the easiest way to get around the city?</h3>
+<p><a href="http://www.metrotas.com.au/">Metro TAS</a> is the local public transport provider. There are a couple of stops along Sandy Bay Rd (next to the hotel) that go to the city (and return to). Check out <a href="http://www.metrotas.com.au/uploads/file/HBT%20Timetables/01%202012%20January/MetroTas_Timetable_SandyBayLocal_20NOV11.pdf">this timetable</a>.
+
+
+
+
+
+
+
+
+
+                                        <div class="netv-postcontent">
+                                            <!-- article-content -->
+                                            <div class="cleared"></div>
+                                            <div class="netv-content-layout overview-table">
+                                                <div class="netv-content-layout-row">
+                                                    <div class="netv-layout-cell">
+                                                    </div><!-- end cell -->
+                                                </div><!-- end row -->
+                                            </div><!-- end table -->
+                                            <!-- /article-content -->
+                                        </div>
+                                        <div class="cleared"></div>
+                                    </div>
+                                    <div class="cleared"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cleared"></div><div class="netv-footer">
+                    <div class="netv-footer-inner">
+                        <a href="media/news/rss" class="netv-rss-tag-icon" title="RSS"></a>
+                        <div class="netv-footer-text">
+                            <p>&copy; 2012 <a href="http://pycon-au.org/">PyCon Australia</a> and <a href="http://www.linux.org.au">Linux Australia</a> | <a href="http://validator.w3.org/check?uri=referer">Valid HTML 4.01</a> | <a href="sitemap">Sitemap</a></p>
+                        </div>
+                        <div class="netv-footer-background"></div>
+                        <div class="cleared"></div>
+                    </div>
+                </div>
+                <div class="cleared"></div>
+                <p class="netv-page-footer">&nbsp;</p>
+            </div>
+        </div>
+    </body>
+</html>
