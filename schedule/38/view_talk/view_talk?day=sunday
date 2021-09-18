@@ -363,7 +363,7 @@ new TWTR.Widget({
 
 <p><a href="../../programme/schedule/sunday">&lt;-- Back to schedule</a></p>
 
-<h2>Neatly Twisted</h2>
+<h2>Python Powered Computational Geometry</h2>
 	
 
 <table>
@@ -371,8 +371,8 @@ new TWTR.Widget({
   <tr class="even">
     <td><strong>Project:</td>
     <td colspan="5">
-      <a href="http://twistedmatrix.com/">
-Twisted
+      <a href="http://code.google.com/p/cgal-bindings/">
+CGAL-bindings 
 </a>
 </td>
 
@@ -382,16 +382,16 @@ Twisted
 <div id="proposal">
 <div class="abstract">
 <blockquote>
-<p>In many Python circles, Twisted is the recommended framework for all networking and multitasking applications. Twisted provides a powerful, extensible event-driven framework with built-in support for many network protocols. But without due care, Twisted’s event-driven features can result in code that’s a nightmare to read and maintain. In this presentation, I will review the basics of Twisted, and show some of the features which make Twisted such a popular framework. I’ll share my experiences debugging and maintaining mission-critical Twisted applications, discuss some of the pitfalls to avoid when coding with Twisted, and present tips and tricks for debugging Twisted code and writing Twisted code that’s a pleasure to read and maintain.</p>
+<p>Computational Geometry is the study of geometry with the support of appropriate algorithms, and influences a broad range of fields of science, engineering and mathematics including: Computation Fluid Dynamics (CFD), Finite Element Modelling (FEM), Computer Aided Design / Modelling (CAD/CAM), Robotics, Computer Graphics and Collision Detection.<br /><br />While it is possible to quickly implement naive versions of computational geometry algorithms in any language, such algorithms can be expensive and time consuming to write, debug and maintain. The advent of a number of tools, including new bindings for the Computational Geometry Algorithms Library (CGAL) and the ipython notebook make Python an ideal tool for experimentation with fast and numerically robust algorithms.<br /><br />The presentation will include demonstrations of a number of common two- and three-dimensional computational geometry algorithms:<br /><br />Triangulations (and Voronoi diagrams)<br />Mesh refinement<br />Intersection testing<br />Alpha shapes<br />Convex hulls<br />Constructive Solid Geometry<br />Minkowski Sums<br /></p>
 </blockquote>
 </div>
 
-<h2>Josh Bartlett</h2>
+<h2>Andrew Walker</h2>
 <div class="bio">
 <blockquote>
-<div style="float: right; padding-left: 5px; padding-bottom: 5px; "><img src="https://seccdn.libravatar.org/avatar/0bc9e314eaf82ddbbcf40fd8f8b30b11?d=mm" alt=""></div>
+<div style="float: right; padding-left: 5px; padding-bottom: 5px; "><img src="view_talk?day=sunday" alt=""></div>
 <p>
-Ten years ago at a technology camp called Übertweak, Josh was introduced to Python and fell in love with her at first sight. Since then, Josh has worked on many Python projects, including the open source network game Trosnoth (http://www.trosnoth.org/) and his own personal tiling window manager Romulus. Josh is interested in ways of making programming more intuitive, and in languages and parsers. He considers himself to have finally made it in the Python community when earlier this year he identified a bug in the core CPython compiler (#14378). His favourite comment on the issue on bugs.python.org was “After this commit the buildbots are dying randomly with segfaults.”<br /><br />Josh is employed by Netbox Blue as a developer of innovative internet compliance, management and security solutions. In his spare time, Josh enjoys helping people learn to program, telling stories, studying the Bible, swing dancing, and singing.
+Andrew is currently employed as a research scientist specialising in modelling and simulation of physical systems, and is currently working on a number of projects with a geometric bent. His background includes the completion of degrees in Engineering and Computer Science at the Swinburne University of Technology. With robotics being his first love, in 2011 he finished his dissertation on Hard-Real Time Motion Planning for Autonomous Vehicles.<br /><br />Andrew lives in Melbourne with his wife and two beautiful daughters.
 </p></blockquote>
 </div>
 

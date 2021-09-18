@@ -110,7 +110,7 @@
 <div class="l"></div>
 <div class="r"></div>
       <ul class="netv-menu">
-          <li class=""><a href="/"><span class="l"></span><span class="r"></span><span class="t">Home</span></a></li>
+          <li class=""><a href="/person/signout"><span class="l"></span><span class="r"></span><span class="t">Home</span></a></li>
 
           <li class=""><a href="/about/pycon_australia"><span class="l"></span><span class="r"></span><span class="t">About</span></a></li>
 
@@ -120,7 +120,7 @@
 
           <li class="selected"><a href="/programme/overview"><span class="l"></span><span class="r"></span><span class="t">Programme</span></a></li>
 
-          <li class=""><a href="/media/news"><span class="l"></span><span class="r"></span><span class="t">News</span></a></li>
+          <li class=""><a href="/media/news.1"><span class="l"></span><span class="r"></span><span class="t">News</span></a></li>
 
           <li class=""><a href="/diversity_grants"><span class="l"></span><span class="r"></span><span class="t">Diversity Grants</span></a></li>
 
@@ -235,7 +235,7 @@
 	<li><a href="/media/news/31">Four weeks until PyCon Australia 2012: Have you registered yet?</a> <div class="date">(2012-07-22)</div></li>
 	<li><a href="/media/news/30">Accommodation and registration deadlines fast approaching!</a> <div class="date">(2012-07-08)</div></li>
 			</ul>
-			<p class = 'more'><a href = '/media/news'>More news...</a></p>
+			<p class = 'more'><a href = '/media/news.1'>More news...</a></p>
 
                                             <!-- /block-content -->
                                             <div class="cleared"></div>
@@ -361,13 +361,19 @@ new TWTR.Widget({
 
 
 
-<p><a href="/programme/schedule">&lt;-- Back to schedule</a></p>
+<p><a href="/programme/schedule/sunday">&lt;-- Back to schedule</a></p>
 
-<h2>Python Web Templating Battle</h2>
+<h2>Path Dependent Development: Why on Earth are you using SQL Alchemy as a JSON validator?</h2>
 	
 
 <table>
 
+  <tr class="even">
+    <td><strong>Project:</td>
+    <td colspan="5">
+      <a href="https://fedorahosted.org/pulpdist/">
+PulpDist
+</a>
 </td>
 
 </table>
@@ -376,16 +382,16 @@ new TWTR.Widget({
 <div id="proposal">
 <div class="abstract">
 <blockquote>
-<p>Head to head - popular templating engines using in the Python world will be compared and contrasted.  Increasingly, frameworks allow many different choices in templating engines. In this talk I’ll discuss the different approaches, demo and pros and cons to help you decide if there is a better templating engine for you.<br /><br /></p>
+<p>The PulpDist project uses SQL Alchemy as part of a custom JSON validator. This could be seen as an unusual choice, so it's worth exploring the way this approach came to be adopted.<br /><br />Practicing iterative development means coping with the inevitable tension between "doing the simplest thing that could possibly work" to meet immediate project requirements and avoiding "reinventing the wheel" in order to take full advantage of existing software components.<br /><br />This means that iterative software designs are inevitably path dependent: decisions made in early iterations can shape later aspects of a project in unexpected ways. These early influences may even predate the project itself, instead being a consequence of wider organisational policies and the personal preferences and abilities of key developers.<br /><br />Understanding some of these factors can help with understanding why:<br />- "good enough" is usually a better target than "perfect"<br />- "Not Invented Here" syndrome is not always the villain it is frequently made out to be<br />- the need to extensively rewrite existing components is not always a sign of past failure<br /></p>
 </blockquote>
 </div>
 
-<h2>Ivan Teoh</h2>
+<h2>Nick Coghlan</h2>
 <div class="bio">
 <blockquote>
-<div style="float: right; padding-left: 5px; padding-bottom: 5px; "><img src="https://seccdn.libravatar.org/avatar/96ffe9693921b9c30731157bdf206289?d=mm" alt=""></div>
+<div style="float: right; padding-left: 5px; padding-bottom: 5px; "><img src="https://seccdn.libravatar.org/avatar/f3ba3ecffd20251d73749afbfa636786?d=mm" alt=""></div>
 <p>
-Ivan is a web developer for PretaWeb, a open source CMS Cloud provider for governments. PretaWeb has been instrumental in the NSW adoption of Plone for it's all of government shared web platform and specializes in high availability multi-site CMS platforms. Previously worked on few mid-sized Django projects with complex template design.
+Nick is a CPython core developer and a nominated member of the Python Software Foundation.<br /><br />Since June 2011, after 12+ years in the aerospace and defence sector, Nick has been working on internal tools for Red Hat, including PulpDist, a set of Pulp plugins and other tools intended to make it easier to maintain a private filtered data mirroring network on commodity hardware.
 </p></blockquote>
 </div>
 
